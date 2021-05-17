@@ -1,0 +1,13 @@
+{
+  "name": "fira",
+  "version": "0.0.0",
+  "description": "See http://www.carrois.com/fira-4-1/ for more details.",
+  "main": "fira.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agence-bmobile/Fira.git"
+  },
+  "author": "Mozilla",
+  "license": "MIT",
+  "homepage": "https://github.com/agence-bmobile/Fira#readme"
+}
